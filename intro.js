@@ -67,7 +67,7 @@ if(true){
     let sayHi = true;
 }
 // console.log(sayHi);
-
+ 
 // const ==> It also works on block Scope, used to prevent the reinitialization of any object
 const pi = 3.14;
 // console.log(pi);
